@@ -1,0 +1,3 @@
+topic,input.root,output.root,vars,vars.categ,calc.sd,cv.manual,cv.detect,by_sex,by_age,gbd_age_cuts,aggregate_under1,custom_age_cuts,cond_age_cuts,sample_threshold,census_data
+anemia,FILEPATH,FILEPATH,"hemoglobin,anemia_severe,anemia_mod_sev,anemia_anemic",NULL,FALSE,cv_pregnant,0,1,1,1,FALSE,,NULL,5,FALSE
+anemia_lu,FILEPATH,FILEPATH,"hemoglobin,anemia_severe,anemia_mod_sev,anemia_anemic",NULL,FALSE,cv_pregnant,0,1,1,1,FALSE,,NULL,5,FALSE
